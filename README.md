@@ -1,2 +1,2 @@
-# TranSNP-Net
-Paper Repository
+# Paper Repository
+The code will be published after the article is accepted.
