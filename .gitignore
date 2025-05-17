@@ -1,0 +1,13 @@
+/data/
+/cpts/
+/test_maps/
+/tempdata/
+/score/
+/models/swin_base_patch4_window12_384_22k.pth
+/models/__pycache__/
+/evaluation/__pycache__/
+/models/__pycache__/
+/data/__pycache__/
+/test_maps/__pycache__/
+/tempdata/__pycache__/
+/score/__pycache__/
